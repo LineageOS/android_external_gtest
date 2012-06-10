@@ -1,0 +1,9 @@
+Change-Id: I3ba8b5dad6a55fb598f0dcb70f933d8a283088bf
+Code-Review+2: Steve Kondik <shade@chemlab.org>
+Verified+1: Steve Kondik <shade@chemlab.org>
+Code-Review+1: Bernhard Rosenkraenzer <Bernhard.Rosenkranzer@linaro.org>
+Submitted-by: Steve Kondik <shade@chemlab.org>
+Submitted-at: Sun, 10 Jun 2012 06:48:14 +0400
+Reviewed-on: http://review.cyanogenmod.com/17366
+Project: CyanogenMod/android_external_gtest
+Branch: refs/heads/ics
